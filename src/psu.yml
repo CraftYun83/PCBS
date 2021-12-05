@@ -1,0 +1,33 @@
+4000W: 
+  Price: 100
+  Item: "IRON_BLOCK"
+  Slot: 1
+6500W: 
+  Price: 200
+  Item: "GOLD_BLOCK"
+  Slot: 3
+7500W: 
+  Price: 400
+  Item: "EMERALD_BLOCK"
+  Slot: 5
+8000W: 
+  Price: 500
+  Item: "DIAMOND_BLOCK"
+  Slot: 7
+  
+Brands:
+  Seasonic:
+    rarity: 30
+    cc: "&b"
+  Cooler Master:
+    rarity: 25
+    cc: "&5"
+  Corsair:
+    rarity: 20
+    cc: "&6"
+  Asus:
+    rarity: 15
+    cc: "&c"
+  EVGA: 
+    rarity: 10
+    cc: "&0"

@@ -1,0 +1,20 @@
+name: PCBS
+version: 1.0
+author: FourMC
+api-version: 1.16
+main: com.fourmc.computers.Main
+depend: [Vault]
+
+commands:
+  pcshop:
+    aliases: [pc]
+  buygpu:
+    aliases: [gpu]
+  buyram:
+    aliases: [ram]
+  buycpu:
+    aliases: [cpu]
+  buyssd:
+    aliases: [ssd]
+  buypsu:
+    aliases: [psu]

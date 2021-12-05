@@ -1,0 +1,37 @@
+250GB: 
+  Price: 100
+  Item: "STICK"
+  Slot: 1
+  Power: 25
+500GB: 
+  Price: 200
+  Item: "BONE"
+  Slot: 3
+  Power: 50
+1000GB: 
+  Price: 400
+  Item: "ARROW"
+  Slot: 5
+  Power: 100
+2000GB: 
+  Price: 800
+  Item: "BLAZE_ROD"
+  Slot: 7
+  Power: 200
+  
+Brands:
+  Samsung:
+    rarity: 30
+    cc: "&1"
+  Intel:
+    rarity: 25
+    cc: "&b"
+  Adata:
+    rarity: 20
+    cc: "&c"
+  Crucial:
+    rarity: 15
+    cc: "&e"
+  WD: 
+    rarity: 10
+    cc: "&0"

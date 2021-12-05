@@ -1,0 +1,56 @@
+CPUShop:
+  Item: "REDSTONE"
+  Slot: 0
+
+RAMShop:
+  Item: "STONE_BUTTON"
+  Slot: 1
+  
+SSDShop:
+  Item: "BLAZE_ROD"
+  Slot: 2
+
+GPUShop:
+  Item: "NETHERITE_INGOT"
+  Slot: 3
+
+PSUShop:
+  Item: "DIAMOND_BLOCK"
+  Slot: 4
+
+PCArena:
+  Item: "DIAMOND_SWORD"
+  Slot: 5
+
+CASEConfig:
+  Item: "DISPENSER"
+  Slot: 6
+
+MOBOConfig:
+  Item: "SUGAR_CANE"
+  Slot: 7
+
+Motherboard:
+  Item: "PAPER"
+  Slot: 8
+  Price: 200
+  
+MOBO Brands:
+  Aorus: 
+    rarity: 30
+    cc: "&6"
+  Gigabyte: 
+    rarity: 25
+    cc: "&1"
+  ASRock:
+    rarity: 20
+    cc: "&7"
+  MSI:
+    rarity: 10
+    cc: "&4"
+  Asus:
+    rarity: 10
+    cc: "&c"
+  EVGA: 
+    rarity: 5
+    cc: "&0"

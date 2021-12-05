@@ -1,0 +1,24 @@
+8GB:
+  Item: "OAK_BUTTON"
+  Price: 75
+  Slot: 2
+  Power: 50
+16GB:
+  Item: STONE_BUTTON
+  Price: 150
+  Slot: 6
+  Power: 100
+  
+Brands:
+  Adata:
+    rarity: 35
+    cc: "&c"
+  G.SKILL:
+    rarity: 30
+    cc: "&8"
+  Kingston:
+    rarity: 20
+    cc: "&3"
+  Corsair: 
+    rarity: 15
+    cc: "&6"

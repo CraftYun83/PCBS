@@ -1,0 +1,102 @@
+AMD Ryzen 3 2200: 
+  price: 100
+  power: 800
+AMD Ryzen 3 3100: 
+  price: 150
+  power: 1100
+AMD Ryzen 3 3200: 
+  price: 200
+  power: 300
+AMD Ryzen 3 3300: 
+  price: 250
+  power: 400
+AMD Ryzen 3 3300X: 
+  price: 300
+  power: 550
+AMD Ryzen 5 2600: 
+  price: 350
+  power: 650
+AMD Ryzen 5 2600X: 
+  price: 400
+  power: 1100
+AMD Ryzen 5 3500: 
+  price: 450
+  power: 1300
+AMD Ryzen 5 3500X: 
+  price: 500
+  power: 1350
+AMD Ryzen 5 3600: 
+  price: 550
+  power: 2850
+AMD Ryzen 5 3600X: 
+  price: 575
+  power: 450
+AMD Ryzen 5 3600XT: 
+  price: 600
+  power: 500
+AMD Ryzen 5 5600: 
+  price: 625
+  power: 775
+AMD Ryzen 5 5600X: 
+  price: 650
+  power: 950
+AMD Ryzen 7 1800: 
+  price: 675
+  power: 950
+AMD Ryzen 7 1800X: 
+  price: 700
+  power: 1350
+AMD Ryzen 7 2700: 
+  price: 725
+  power: 1475
+AMD Ryzen 7 2700X: 
+  price: 750
+  power: 1575
+AMD Ryzen 7 3700: 
+  price: 775
+  power: 1900
+AMD Ryzen 7 3700X: 
+  price: 800
+  power: 1890
+AMD Ryzen 7 3800: 
+  price: 825
+  power: 2200
+AMD Ryzen 7 3800X: 
+  price: 850
+  power: 2275
+AMD Ryzen 7 3800XT: 
+  price: 875
+  power: 1650
+AMD Ryzen 7 5700: 
+  price: 900
+  power: 2400
+AMD Ryzen 7 5700X: 
+  price: 910
+  power: 2475
+AMD Ryzen 9 3900: 
+  price: 920
+  power: 2525
+AMD Ryzen 9 3900X: 
+  price: 930
+  power: 2975
+AMD Ryzen 9 3900XT: 
+  price: 940
+  power: 3250
+AMD Ryzen 9 3950: 
+  price: 950
+  power: 3400
+AMD Ryzen 9 3950X: 
+  price: 960
+  power: 3425
+AMD Ryzen 9 5900: 
+  price: 970
+  power: 3450
+AMD Ryzen 9 5900X: 
+  price: 980
+  power: 3475
+AMD Ryzen 9 5950: 
+  price: 990
+  power: 3500
+AMD Ryzen 9 5950X: 
+  price: 1000
+  power: 3525

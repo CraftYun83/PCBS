@@ -1,0 +1,106 @@
+GTX 980: 
+  price: 600
+  power: 1000
+GTX 980 Ti: 
+  price: 650
+  power: 1330
+GTX 1050: 
+  price: 400
+  power: 450
+GTX 1050 Ti: 
+  price: 450
+  power: 500
+GTX 1060: 
+  price: 500
+  power: 662
+GTX 1060 Ti: 
+  price: 550
+  power: 712
+GTX 1070: 
+  price: 700
+  power: 1340
+GTX 1070 Ti: 
+  price: 750
+  power: 1610
+GTX 1080: 
+  price: 800
+  power: 1780
+GTX 1080 Ti: 
+  price: 850
+  power: 2320
+GTX 1650: 
+  price: 475
+  power: 530
+GTX 1650 Super: 
+  price: 525
+  power: 670
+GTX 1660: 
+  price: 650
+  power: 1150
+GTX 1660 Super: 
+  price: 725
+  power: 1,200
+GTX 1660 Ti: 
+  price: 700
+  power: 1250
+RTX 2060: 
+  price: 750
+  power: 1600
+RTX 2060 Super: 
+  price: 800
+  power: 1800
+RTX 2070: 
+  price: 850
+  power: 1850
+RTX 2070 Super: 
+  price: 825
+  power: 2200
+RTX 2080: 
+  price: 850
+  power: 2320
+RTX 2080 Super: 
+  price: 875
+  power: 2500
+RTX 2080 Ti: 
+  price: 1000
+  power: 2650
+RTX 3060: 
+  price: 825
+  power: 1825
+RTX 3060 Ti: 
+  price: 875
+  power: 2400
+RTX 3070: 
+  price: 900
+  power: 2600
+RTX 3070 Ti: 
+  price: 1000
+  power: 2700
+RTX 3080: 
+  price: 1240
+  power: 3350
+RTX 3080 Ti: 
+  price: 1450
+  power: 3600
+RTX 3090: 
+  price: 1500
+  power: 3600
+Brands: 
+  Galax: 
+    rarity: 30
+    cc: "&b"
+  Zotac: 
+    rarity: 25
+    cc: "&6"
+  Gigabyte: 
+    rarity: 20
+    cc: "&1"
+  MSI: 
+    rarity: 10
+    cc: "&4"
+  Asus: 
+    rarity: 10
+    cc: "&c"
+  EVGA: 
+    rarity: 5
+    cc: "&0"
